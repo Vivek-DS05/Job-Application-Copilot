@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-mistralai
+langchain-community
+streamlit
+pypdf
+python-dotenv
